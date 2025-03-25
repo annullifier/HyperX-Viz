@@ -26,3 +26,5 @@ Dimension-based Connectivity: Organizes switch connections in dimensional groups
 4D Projection Techniques: Uses spiral offsets and color gradients to represent the 4th dimension
 Curved Spline Generation: Creates visually distinct, dimension-specific curved connections
 Interactive Visualization Controls: Provides tools to explore and highlight network features
+
+![Screenshot 2025-03-25 at 6 52 13 PM](https://github.com/user-attachments/assets/5237e10d-9070-4055-b5c2-6b9cca8a7eba)
